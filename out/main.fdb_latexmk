@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1720576218.18675 "out/test.dvi" "out/test.pdf" "out/test" 1720576218.71191 0
-  "out/test.dvi" 1720576218.1515 8324 c481a42e4edeedd7efc19dc8cf49313d "latex"
+["dvipdf"] 1720576685.97122 "out/main.dvi" "out/main.pdf" "out/main" 1720576686.51109 0
+  "out/main.dvi" 1720576685.92116 8324 ddb126819f4750251d4ad4695a32a19c "latex"
   (generated)
-  "out/test.pdf"
+  "out/main.pdf"
   (rewritten before read)
-["latex"] 1720576217.59952 "/home/kcat/dlite3/latex/test.tex" "out/test.dvi" "test" 1720576218.71057 0
-  "/home/kcat/dlite3/latex/test.tex" 1720576216.76151 3539 4f653e5fcbdb1395d2973e46c543ec2e ""
+["latex"] 1720576685.31564 "/home/kcat/dlite3/latex/main.tex" "out/main.dvi" "main" 1720576686.51042 0
+  "/home/kcat/dlite3/latex/main.tex" 1720576216.76151 3539 4f653e5fcbdb1395d2973e46c543ec2e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1463434352 1196 1be730212205a270378fba11a44765dc ""
@@ -58,12 +58,12 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1719785820 42007 0b741a3c21a5ca32b40e3846e75b3548 ""
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1720551989 8176692 1948b951ba284a28c8dfe748d439d521 ""
   "/usr/local/texlive/2024/texmf.cnf" 1720551862.28972 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "out/test.aux" 1720576218.1515 1906 9bb00b143166376ce710359e23dee04e "latex"
-  "out/test.toc" 1720576218.1515 979 7ac29d978935ba869c2833b818200e9f "latex"
-  "test.tex" 1720576216.76151 3539 4f653e5fcbdb1395d2973e46c543ec2e ""
+  "main.tex" 1720576216.76151 3539 4f653e5fcbdb1395d2973e46c543ec2e ""
+  "out/main.aux" 1720576685.92116 1906 9bb00b143166376ce710359e23dee04e "latex"
+  "out/main.toc" 1720576685.92116 979 7ac29d978935ba869c2833b818200e9f "latex"
   (generated)
-  "out/test.aux"
-  "out/test.dvi"
-  "out/test.log"
-  "out/test.toc"
+  "out/main.aux"
+  "out/main.dvi"
+  "out/main.log"
+  "out/main.toc"
   (rewritten before read)

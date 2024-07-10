@@ -1,10 +1,10 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.7.10)  10 JUL 2024 10:50
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.7.10)  10 JUL 2024 10:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/kcat/dlite3/latex/test.tex
-(/home/kcat/dlite3/latex/test.tex
+**/home/kcat/dlite3/latex/main.tex
+(/home/kcat/dlite3/latex/main.tex
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -218,8 +218,8 @@ File: l3backend-dvips.def 2024-05-08 L3 backend support: dvips
 \g__pdf_backend_annotation_int=\count289
 \g__pdf_backend_link_int=\count290
 \g__pdf_backend_link_sf_int=\count291
-) (out/test.aux)
-\openout1 = `test.aux'.
+) (out/main.aux)
+\openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
@@ -306,9 +306,9 @@ LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <24.88> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 109.
 
 
-[2] (out/test.toc)
+[2] (out/main.toc)
 \tf@toc=\write3
-\openout3 = `test.toc'.
+\openout3 = `main.toc'.
 
 
 
@@ -334,7 +334,7 @@ Chapter 3.
 
 [6
 
-] (out/test.aux)
+] (out/main.aux)
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2024-06-01> patch level 2
@@ -350,4 +350,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  57i,5n,65p,6624b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/test.dvi (8 pages, 8324 bytes).
+Output written on out/main.dvi (8 pages, 8324 bytes).
