@@ -1,0 +1,161 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[margin=1in]{geometry}
+\usepackage[japanese]{babel}
+\usepackage{datetime2}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{amsmath}
+\usepackage{indentfirst}
+\usepackage{fancyhdr}
+
+\newcommand{\AgendaBox}[2]{
+    \large
+    \textbf{#1}\\
+
+    \vspace{0.2cm}
+
+    \small 
+    #2
+
+    \vspace{0.5cm}
+}
+\newcommand{\NameBox}[2]{
+    \small 
+    #1\hspace{1cm}#2
+}
+% Chapter title formatting
+\titleformat{\chapter}[hang]
+  {\bfseries\huge} % Title style
+  {第 \thechapter 章} % Label
+  {1em} % Spacing between label and title
+  {\huge} % Title font
+% Section title formatting
+\titleformat{\section}{\LARGE\bfseries}{\arabic{chapter}.\arabic{section}}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+\renewcommand{\thesubsection}{\normalsize\arabic{section}.\arabic{subsection}}
+
+% ヘッダーとフッターをカスタマイズ
+\fancyhead{} % 既存のヘッダーをクリア
+\fancyfoot{} % 既存のフッターをクリア
+\fancyfoot[C]{\thepage} % フッター中央にページ番号を表示
+
+\begin{document}
+\thispagestyle{empty}
+\begin{center}
+    \large
+    \textbf{
+      公立はこだて未来大学 2024年度 システム情報科学実習\\
+      グループ報告書
+    }\\
+
+    \vspace{0.2cm}
+
+    \small 
+    \textbf{
+      Future University Hakodate 2023 Systems Information Science Practice\\Group Report
+    }
+
+    \vspace{0.5cm}
+
+    \AgendaBox{プロジェクト名}{境界なく人々の生活を支援する技術}
+    \AgendaBox{Project Name}{DLITE3 : Technology that supports people's lives without boundaries}
+    \AgendaBox{グループ名}{グループ名 班}
+    \AgendaBox{Group Name}{Group Name Gropu}
+    \AgendaBox{プロジェクト番号 / Project No.}{23}
+    \AgendaBox{プロジェクトリーダ / Project Leader}{金子康一\hspace{1cm}Kaneko Koichi}
+    \AgendaBox{グループリーダー / Group Leader}{
+      \NameBox{未来太郎}{Mirai Taro}\\
+    }
+    \AgendaBox{グループメンバー / Group Member}{
+      \NameBox{未来太郎}{Mirai Taro}\\
+      \NameBox{未来太郎}{Mirai Taro}\\
+      \NameBox{未来太郎}{Mirai Taro}\\
+    }
+    \AgendaBox{指導教員}{
+      三上貞芳　伊藤精英　宮本エジソン正　島影圭佑
+    }
+    \AgendaBox{指導教員}{
+      Mikami Sadayoshi　Ito Kiyohide　Miyamoto, Edson T.　Shimakage Keisuke
+    }
+    \AgendaBox{提出日 / Date of Submission}{
+      2024年7月12日　July 12, 2024
+    }
+    
+
+\end{center}
+
+% 空のページを挿入
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
+
+\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+{
+    \centerline{
+      \huge\textgt{概要}
+    }
+    \vspace{1cm}
+    \noindent
+    あいうえお
+}
+\newpage
+{
+    \centerline{
+      \textbf{\huge\textgt{Abstract}}
+    }
+    \vspace{1cm}
+    \noindent
+    ABCDEFG
+}
+\newpage
+
+% Table of contents (optional)
+\tableofcontents
+\newpage
+
+% 本文ページ
+\chapter{はじめに}
+\section{背景}
+\noindent
+hogehoge
+\section{先行研究}
+\noindent
+hogehoge
+\section{研究動機}
+\noindent
+hogehoge
+\section{目的}
+\noindent
+hogehoge
+
+\chapter{関連研究}
+\section{使用技術}
+\noindent
+hogehoge
+\section{解決手法}
+\subsection{サブセクション１}
+\noindent
+hogehoge
+\subsection{サブセクション２}
+\noindent
+hogehoge
+
+\chapter{活動の要約}
+\section{成果}
+\noindent
+hogehoge
+\section{解決手法}
+\noindent
+hogehoge
+\section{使用技術}
+\noindent
+hogehoge
+\section{活動計画}
+\noindent
+hogehoge
+
+\end{document}
