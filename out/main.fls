@@ -1,10 +1,10 @@
-PWD /home/kcat/dlite3/latex
+PWD /home/kcat/dlite3/latex/interim-report
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt
-INPUT /home/kcat/dlite3/latex/main.tex
+INPUT /home/kcat/dlite3/latex/interim-report/main.tex
 OUTPUT out/main.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
