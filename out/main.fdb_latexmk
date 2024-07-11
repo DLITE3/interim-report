@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1720681445.14343 "out/main.dvi" "out/main.pdf" "out/main" 1720681445.6884 0
-  "out/main.dvi" 1720681445.09493 9548 371e53ca2ff76c950c845d828866635b "latex"
+["dvipdf"] 1720681526.59712 "out/main.dvi" "out/main.pdf" "out/main" 1720681526.95935 0
+  "out/main.dvi" 1720681526.56492 9900 8591662cab01cb39ef86fdebb15fd62f "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1720681444.41098 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720681445.68704 0
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720681443.05493 5338 e4e066c27e4dceafe84b99bd8723868c ""
+["latex"] 1720681526.04642 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720681526.95796 0
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720681525.81492 5581 8561067d7a2d3ee9a7651194fb014652 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1463434352 1196 1be730212205a270378fba11a44765dc ""
@@ -58,9 +58,9 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1719785820 42007 0b741a3c21a5ca32b40e3846e75b3548 ""
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1720551989 8176692 1948b951ba284a28c8dfe748d439d521 ""
   "/usr/local/texlive/2024/texmf.cnf" 1720551862.28972 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "main.tex" 1720681443.05493 5338 e4e066c27e4dceafe84b99bd8723868c ""
-  "out/main.aux" 1720681445.09493 1600 513d3d631080db246435049eed28c5e3 "latex"
-  "out/main.toc" 1720681445.09493 796 f5bb0ebbbfb7f6f58e8666aae330a39c "latex"
+  "main.tex" 1720681525.81492 5581 8561067d7a2d3ee9a7651194fb014652 ""
+  "out/main.aux" 1720681526.56492 1600 513d3d631080db246435049eed28c5e3 "latex"
+  "out/main.toc" 1720681526.56492 796 f5bb0ebbbfb7f6f58e8666aae330a39c "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"
