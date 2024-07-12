@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.7.10)  12 JUL 2024 13:29
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.7.10)  12 JUL 2024 16:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -346,23 +346,21 @@ Chapter 2.
 ]
 Chapter 3.
 
+/home/kcat/dlite3/latex/interim-report/main.tex:176: LaTeX Error: \begin{description} on input line 162 ended by \end{document}.
 
-[6
-
-] (out/main.aux)
- ***********
-pLaTeX2e <2023-02-14>+1, based on
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-05-27>
- ***********
- ) 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.176 \end{document}
+                     
 Here is how much of TeX's memory you used:
- 7066 strings out of 474243
- 132124 string characters out of 5743453
+ 7067 strings out of 474243
+ 132336 string characters out of 5743453
  1926750 words of memory out of 5000000
- 29920 multiletter control sequences out of 15000+600000
+ 29922 multiletter control sequences out of 15000+600000
  571786 words of font info for 90 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 57i,5n,65p,6639b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,6639b,246s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/main.dvi (8 pages, 9556 bytes).
+Output written on out/main.dvi (7 pages, 9928 bytes).
