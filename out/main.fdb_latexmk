@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1720772049.79 "out/main.dvi" "out/main.pdf" "out/main" 1720772050.22233 0
-  "out/main.dvi" 1720772075.10023 13700 090ee6df4c8d8478cd3fe51d3169b3b8 "latex"
+["dvipdf"] 1720772025.02915 "out/main.dvi" "out/main.pdf" "out/main" 1720772025.93222 0
+  "out/main.dvi" 1720772470.30017 14628 02bd9f2dee6674c3e92562b1644947da "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1720772310.40243 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720772310.98242 2
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720772310.1202 8661 91a98fbbf206c5f53c0ec15133560caf ""
+["latex"] 1720772470.83265 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720772472.56613 2
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720772470.30017 8772 644780067a2222ff399fb39fac205109 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/babel-japanese/japanese.ldf" 1613254696 6233 e7f25ec68dc85f8bccdba3cc5d731de2 ""
@@ -44,8 +44,8 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1719785820 42007 0b741a3c21a5ca32b40e3846e75b3548 ""
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1720551989 8176692 1948b951ba284a28c8dfe748d439d521 ""
   "/usr/local/texlive/2024/texmf.cnf" 1720551862.28972 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "main.tex" 1720772310.1202 8661 91a98fbbf206c5f53c0ec15133560caf ""
-  "out/main.aux" 1720772079.48023 2307 cc19c4bd09a3b6def93084a29319f972 "latex"
+  "main.tex" 1720772470.30017 8772 644780067a2222ff399fb39fac205109 ""
+  "out/main.aux" 1720772470.30017 2557 4eeed1af8a65cc8978fa6fd6a883e427 "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"
