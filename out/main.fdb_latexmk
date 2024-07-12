@@ -1,12 +1,13 @@
 # Fdb version 4
-["dvipdf"] 1720758696.52573 "out/main.dvi" "out/main.pdf" "out/main" 1720758697.19624 0
-  "out/main.dvi" 1720758696.48841 10496 a6723453278aca856cf8980645d5ef05 "latex"
+["dvipdf"] 1720768362.25821 "out/main.dvi" "out/main.pdf" "out/main" 1720768363.04221 0
+  "out/main.dvi" 1720768362.20091 13700 090ee6df4c8d8478cd3fe51d3169b3b8 "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1720758695.77452 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720758697.19552 0
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720758695.54841 5763 21680914bc147a190ea0fdbf6f0a0787 ""
+["latex"] 1720768361.46991 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720768363.04088 0
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720768361.11091 8538 bf42c50bd3ac8ffedf0ad20843c32fa1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1463434352 1196 1be730212205a270378fba11a44765dc ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm" 1463434352 856 7404843a5f798859944d7973a47821d5 ""
@@ -64,9 +65,9 @@
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1720551989 8176692 1948b951ba284a28c8dfe748d439d521 ""
   "/usr/local/texlive/2024/texmf.cnf" 1720551862.28972 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "images/tech-conf.png" 1720758642.67842 140366 cd83b99b6748c7fd88c8cc934918e3ab ""
-  "main.tex" 1720758695.54841 5763 21680914bc147a190ea0fdbf6f0a0787 ""
-  "out/main.aux" 1720758696.48841 1702 3969c7b8d574a6275b01ec915687c7b9 "latex"
-  "out/main.toc" 1720758696.48841 857 864be8a7e29d0c5c67181bcc8241afda "latex"
+  "main.tex" 1720768361.11091 8538 bf42c50bd3ac8ffedf0ad20843c32fa1 ""
+  "out/main.aux" 1720768362.20091 1702 5a725e5c398d183e71d782885bd1cd68 "latex"
+  "out/main.toc" 1720768362.20091 857 4d5fb2a691367238816b674edb2c87ea "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"
