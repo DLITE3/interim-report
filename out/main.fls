@@ -64,6 +64,18 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/indentfirst.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/indentfirst.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 INPUT out/main.aux
@@ -111,4 +123,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./images/tech-conf.png
+INPUT ./images/tech-conf.png
+INPUT ./images/tech-conf.png
+INPUT extractbb -B cropbox -O images/tech-conf.png
 INPUT out/main.aux
