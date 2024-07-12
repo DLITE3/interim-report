@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1720768362.25821 "out/main.dvi" "out/main.pdf" "out/main" 1720768363.04221 0
-  "out/main.dvi" 1720768362.20091 13700 090ee6df4c8d8478cd3fe51d3169b3b8 "latex"
+["dvipdf"] 1720772025.02915 "out/main.dvi" "out/main.pdf" "out/main" 1720772025.93222 0
+  "out/main.dvi" 1720772024.99024 14628 02bd9f2dee6674c3e92562b1644947da "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1720768361.46991 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720768363.04088 0
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720768361.11091 8538 bf42c50bd3ac8ffedf0ad20843c32fa1 ""
+["latex"] 1720772024.14367 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720772025.93103 0
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720772022.38024 8772 644780067a2222ff399fb39fac205109 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -65,9 +65,9 @@
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1720551989 8176692 1948b951ba284a28c8dfe748d439d521 ""
   "/usr/local/texlive/2024/texmf.cnf" 1720551862.28972 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "images/tech-conf.png" 1720758642.67842 140366 cd83b99b6748c7fd88c8cc934918e3ab ""
-  "main.tex" 1720768361.11091 8538 bf42c50bd3ac8ffedf0ad20843c32fa1 ""
-  "out/main.aux" 1720768362.20091 1702 5a725e5c398d183e71d782885bd1cd68 "latex"
-  "out/main.toc" 1720768362.20091 857 4d5fb2a691367238816b674edb2c87ea "latex"
+  "main.tex" 1720772022.38024 8772 644780067a2222ff399fb39fac205109 ""
+  "out/main.aux" 1720772024.98024 1952 a0cf3b8147b351efc2d7230584867648 "latex"
+  "out/main.toc" 1720772024.99024 1023 9d2e5f85291f0bf8b103316c174d1731 "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"
