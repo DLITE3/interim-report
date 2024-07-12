@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1720774488.68105 "out/main.dvi" "out/main.pdf" "out/main" 1720774489.50466 0
-  "out/main.dvi" 1720774488.63982 16268 091f5826c9e1510b85b77981fc52a848 "latex"
+["dvipdf"] 1720774515.99805 "out/main.dvi" "out/main.pdf" "out/main" 1720774516.66442 0
+  "out/main.dvi" 1720774515.9598 16268 0d0b0b9126e4ad40e0ed8e69c671deea "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1720774487.76227 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720774489.50267 0
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720774486.40982 9222 1cd9cf3c6cf5af9fe80dd75874ae4b7a ""
+["latex"] 1720774514.99493 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720774516.66298 0
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720774514.5998 9221 97653ce57f7bf34b5e01df7f9a87de7f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -65,9 +65,9 @@
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1720551989 8176692 1948b951ba284a28c8dfe748d439d521 ""
   "/usr/local/texlive/2024/texmf.cnf" 1720551862.28972 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "images/tech-conf.png" 1720758642.67842 140366 cd83b99b6748c7fd88c8cc934918e3ab ""
-  "main.tex" 1720774486.40982 9222 1cd9cf3c6cf5af9fe80dd75874ae4b7a ""
-  "out/main.aux" 1720774488.63982 2072 f1bf88879370208ebeed5b6a9cf0b157 "latex"
-  "out/main.toc" 1720774488.63982 1101 3896f8e354d9ea1424b190e144412009 "latex"
+  "main.tex" 1720774514.5998 9221 97653ce57f7bf34b5e01df7f9a87de7f ""
+  "out/main.aux" 1720774515.9498 2072 f1bf88879370208ebeed5b6a9cf0b157 "latex"
+  "out/main.toc" 1720774515.9598 1101 3896f8e354d9ea1424b190e144412009 "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"
