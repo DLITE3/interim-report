@@ -4,8 +4,8 @@
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1720772079.81663 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720772080.42794 2
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720772079.48023 8555 5211109c3bd55742b433b6300afe0196 ""
+["latex"] 1720772310.40243 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720772310.98242 2
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720772310.1202 8661 91a98fbbf206c5f53c0ec15133560caf ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/babel-japanese/japanese.ldf" 1613254696 6233 e7f25ec68dc85f8bccdba3cc5d731de2 ""
@@ -44,7 +44,7 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1719785820 42007 0b741a3c21a5ca32b40e3846e75b3548 ""
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1720551989 8176692 1948b951ba284a28c8dfe748d439d521 ""
   "/usr/local/texlive/2024/texmf.cnf" 1720551862.28972 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "main.tex" 1720772079.48023 8555 5211109c3bd55742b433b6300afe0196 ""
+  "main.tex" 1720772310.1202 8661 91a98fbbf206c5f53c0ec15133560caf ""
   "out/main.aux" 1720772079.48023 2307 cc19c4bd09a3b6def93084a29319f972 "latex"
   (generated)
   "out/main.aux"
