@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.7.10)  12 JUL 2024 17:14
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.7.10)  12 JUL 2024 17:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -10,8 +10,8 @@ LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2024/02/08 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count193
 \c@chapter=\count194
@@ -273,12 +273,12 @@ LaTeX Font Info:    ... okay on input line 43.
 * \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=50.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -288,13 +288,13 @@ LaTeX Font Info:    ... okay on input line 43.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 50.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 50.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 57.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 57.
 
 
@@ -307,21 +307,26 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
 [1
 
 ]
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 115.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 115.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 115.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 115.
+LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <20.74> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 115.
+LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <20.74> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 115.
+
+
+[2]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 115.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 115.
-LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <24.88> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 115.
-LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <24.88> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 115.
-
-
-[2] (out/main.toc)
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 129.
+(out/main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
@@ -329,9 +334,9 @@ LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <24.88> not available
 
 [3]
 Chapter 1.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 134.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 134.
 
 
@@ -357,12 +362,12 @@ L3 programming layer <2024-05-27>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7066 strings out of 474243
- 132124 string characters out of 5743453
+ 7069 strings out of 474243
+ 132183 string characters out of 5743453
  1926750 words of memory out of 5000000
- 29920 multiletter control sequences out of 15000+600000
- 571786 words of font info for 90 fonts, out of 8000000 for 9000
+ 29924 multiletter control sequences out of 15000+600000
+ 572096 words of font info for 91 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 57i,5n,65p,6639b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,6639b,240s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/main.dvi (8 pages, 9564 bytes).
+Output written on out/main.dvi (8 pages, 10132 bytes).
