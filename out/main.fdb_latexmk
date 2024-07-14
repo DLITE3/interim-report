@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1720774805.10748 "out/main.dvi" "out/main.pdf" "out/main" 1720774805.92405 0
-  "out/main.dvi" 1720774805.04973 17068 ddcf993f6ed30d961665a918fef0d915 "latex"
+["dvipdf"] 1720840669.06477 "out/main.dvi" "out/main.pdf" "out/main" 1720840669.82049 0
+  "out/main.dvi" 1720840669.01983 17068 519bf018df24a6cf407a33f55f8094a2 "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1720774804.25107 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720774805.9228 0
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720774803.45973 9442 e308740a32426bac1b8b1560d0e27527 ""
+["latex"] 1720840668.28356 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720840669.81972 0
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720840667.86983 9444 9d1e6fc47ada99369d79b56604eeba3b ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -65,9 +65,9 @@
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1720551989 8176692 1948b951ba284a28c8dfe748d439d521 ""
   "/usr/local/texlive/2024/texmf.cnf" 1720551862.28972 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "images/tech-conf.png" 1720758642.67842 140366 cd83b99b6748c7fd88c8cc934918e3ab ""
-  "main.tex" 1720774803.45973 9442 e308740a32426bac1b8b1560d0e27527 ""
-  "out/main.aux" 1720774805.04973 2198 8bca72ba2d0ec165366b7d46c44e3496 "latex"
-  "out/main.toc" 1720774805.04973 1185 ff953294869c174d2cdbce7fcaa92522 "latex"
+  "main.tex" 1720840667.86983 9444 9d1e6fc47ada99369d79b56604eeba3b ""
+  "out/main.aux" 1720840669.01983 2198 8bca72ba2d0ec165366b7d46c44e3496 "latex"
+  "out/main.toc" 1720840669.01983 1185 ff953294869c174d2cdbce7fcaa92522 "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"
