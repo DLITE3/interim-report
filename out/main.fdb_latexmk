@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1721200766.24182 "out/main.dvi" "out/main.pdf" "out/main" 1721200767.03633 0
-  "out/main.dvi" 1721200766.20294 19304 3acb1e080ea7a5d281dba4d6db5f9436 "latex"
+["dvipdf"] 1721204581.95221 "out/main.dvi" "out/main.pdf" "out/main" 1721204582.95488 0
+  "out/main.dvi" 1721204581.89152 20176 9d219f7203eab43bd72b1c5cd89446bf "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1721200765.47813 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1721200767.03523 0
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1721200765.18294 11773 ce283dc3bc66bed2ecbc406fba57ab7c ""
+["latex"] 1721204580.44146 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1721204582.95381 0
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1721204578.70152 12222 ff020a3e06e2981408c0f54a0d6eaab7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -65,9 +65,9 @@
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1720551989 8176692 1948b951ba284a28c8dfe748d439d521 ""
   "/usr/local/texlive/2024/texmf.cnf" 1720551862.28972 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "images/tech-conf.png" 1720758642.67842 140366 cd83b99b6748c7fd88c8cc934918e3ab ""
-  "main.tex" 1721200765.18294 11773 ce283dc3bc66bed2ecbc406fba57ab7c ""
-  "out/main.aux" 1721200766.20294 2445 85408b7c8cdf5a3143c98d08239ea6f2 "latex"
-  "out/main.toc" 1721200766.20294 1389 e8fa35d0c7af7af1d41f95c4c65ea7b1 "latex"
+  "main.tex" 1721204578.70152 12222 ff020a3e06e2981408c0f54a0d6eaab7 ""
+  "out/main.aux" 1721204581.88152 2694 2d0d83be1d2eac665e5e2d50136f98c9 "latex"
+  "out/main.toc" 1721204581.89152 1511 894108a2f34be0d3de40de6f20bd0993 "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"

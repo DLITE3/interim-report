@@ -14,6 +14,8 @@
 \contentsline {chapter}{\numberline {3}活動の要約}{9}{}%
 \contentsline {section}{\numberline {3.1}成果}{9}{}%
 \contentsline {subsection}{\numberline {\normalsize 3.1.1}システム設計}{9}{}%
+\contentsline {subsection}{\numberline {\normalsize 3.1.2}開発環境}{9}{}%
 \contentsline {section}{\numberline {3.2}活動計画}{9}{}%
 \contentsline {subsection}{\numberline {\normalsize 3.2.1}開発環境}{9}{}%
 \contentsline {subsection}{\numberline {\normalsize 3.2.2}ハードウェア}{9}{}%
+\contentsline {chapter}{参考文献}{9}{}%
