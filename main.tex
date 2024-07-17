@@ -205,13 +205,13 @@ hogehoge
 
 \chapter{関連研究}
 \section{使用技術}
-\subsection{本プロジェクト学習で必要なスキル}
+\subsection{本プロジェクト学習で必要なスキル・技術}
 \noindent\space
 \begin{itemize}
   \item 言語
   \begin{itemize}
     \item Python
-    \item C lang
+    \item Cpp
   \end{itemize}
   \item API
   \begin{itemize}
@@ -242,22 +242,57 @@ hogehoge
   \end{itemize}
 \end{itemize}
 
-\subsection{過去プロジェクト学習で使用されたスキル}
+\subsection{昨年度プロジェクト学習で使用されたスキル・技術}
 \noindent\space
-
+\begin{itemize}
+  \item M5Stack Core2
+  \item unitv2 AIカメラ
+  \item シリアル通信
+  \item RetinaFace
+  \item Object Recongnition
+  \item V-Training
+  \item UiFlow
+  \item RaspberryPi 4
+  \item OpenCV
+  \item M5Stack 用 ToF 距離センサユニット
+  \item M5Stack 用振動モータユニット
+  \item M5Stack 用超音波測距ユニット
+  \item 骨伝導イヤホン
+\end{itemize}
 
 \section{解決手法}
-\subsection{サブセクション１}
-\noindent
-hogehoge
-\subsection{サブセクション２}
-\noindent
-hogehoge
+\subsection{聴覚情報を視覚情報に変換}
+\noindent\space
+聴覚情報、すなわち風の音や川の音などをマイクで取り込み、画像生成AIもしくは何らかの方法で画像としてのアート（以下「アート」）を生成し、デバイスの画面に表示をする。\\
+以上を実現するために、次のような手順で変換を行う。
+\begin{enumerate}
+  \item RaspberryPiに接続されたボタンAを押す。
+  \item RaspberryPiに接続されたマイクから音を録音する。
+  \item RaspberryPiに接続されたボタンAを押す。
+  \item RaspberryPiに録音を終了する。
+  \item OpenAI APIへ録音した音声データとプロンプトをPOSTし、音声データをテキストへ変換する。
+  \item 変換されたテキストを画像生成AI、もしくは自作のAPIへPOSTしアートへ変換する。
+  \item APIから返ってきた画像をデバイスの画面に表示する。
+\end{enumerate}
+
+\newpage
+
+\subsection{視覚情報を聴覚情報に変換}
+\noindent\space
+視覚情報、すなわち花の色や木々の揺れなどをカメラで撮影し、音楽生成AIもしくは何らかの方法で曲を生成し、デバイスに接続されたスピーカーで再生する。\\
+以上を実現するために、次のような手順で変換を行う。
+\begin{enumerate}
+  \item RaspberryPiに接続されたボタンAを押す。
+  \item RaspberryPiに接続されたカメラで撮影をする。
+  \item OpenAI APIへ撮影した画像データとプロンプトをPOSTし、画像データをテキストへ変換する。
+  \item 変換されたテキストを音楽生成AI、もしくは自作のAPIへPOSTし曲へ変換する。
+  \item APIから返ってきた音声データをデバイスに接続されたスピーカーで再生する。
+\end{enumerate} 
 
 \chapter{活動の要約}
 \section{成果}
 \noindent\space
-\subsection{使用技術}
+\subsection{システム設計}
 \begin{center}
   \includegraphics[width=100mm]{images/tech-conf.png}\\
   図１  ：技術構成
