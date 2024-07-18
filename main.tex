@@ -23,6 +23,12 @@
     \small 
     #1\hspace{1cm}#2
 }
+\newcommand{\Writer}[1]{
+  \normalsize
+  \begin{flushright}
+    （※文責：#1）
+  \end{flushright}
+}
 % Chapter title formatting
 \titleformat{\chapter}[hang]
   {\bfseries\huge} % Title style
@@ -135,7 +141,8 @@ have difficulty evacuating on their own, and devices that allow people with disa
 hogehoge
 \section{先行研究}
 \noindent
-\space うお峰野は視覚障害者が散策する目的として、気候や季節を見計らって気分転換がてらに行う要因があると述べている(峰野　2013)。しかし視覚障がい者は目での観察が不可能なため、気分転換の効果が軽減してしまうのではないかと考える。これは音を聞くことが出来ない聴覚障がい者にも言えるのではないかと考えた。
+\space 峰野は視覚障害者が散策する目的として、気候や季節を見計らって気分転換がてらに行う要因があると述べている(峰野　2013)。しかし視覚障がい者は目での観察が不可能なため、気分転換の効果が軽減してしまうのではないかと考える。これは音を聞くことが出来ない聴覚障がい者にも言えるのではないかと考えた。
+\Writer{伊丸岡}
 \section{研究動機}
 \noindent
 hogehoge
@@ -160,5 +167,11 @@ hogehoge
 \noindent
 \subsection{ソフトウェア}
 \noindent
-\space 後期は生成AIのAPIを使って、本格的にソフトウェアの制作に取り掛かる。raspberry piと連携をさせ、実用できる段階まで制作する。また中間発表会の質問にあったように、実際に生成AIで生成された音楽やアートが、元の景色や音を表現するものとして妥当性があるかを評価するため、アンケートなどをとり、実用性を高めていきたい。
+\space 後期のプロジェクト学習では、生成AIのAPIを活用し本格的にソフトウェア制作に取り掛かる。まずは風景から音楽を生成するシステムを完成させる。次に環境音からアートを生成するシステムを完成させる。最終的にRaspberry Piと連携させ、実用可能な段階まで開発を進める。
+\Writer{伊丸岡}
+
+\addcontentsline{toc}{chapter}{参考文献}
+\begin{thebibliography}{参考文献の数}
+  \bibitem{先行研究} 峰野あゆみ（2013）「視覚障がい者の散策行動特性からみた支援環境に関する研究」,東京都立大学機関リポジトリ「みやこ鳥」(2024年7月10日取得, https://tokyo-metro-u.repo.nii.ac.jp/records/3633).
+\end{thebibliography}
 \end{document}
