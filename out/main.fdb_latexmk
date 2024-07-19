@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1721359997.30138 "out/main.dvi" "out/main.pdf" "out/main" 1721359998.26629 0
-  "out/main.dvi" 1721359997.24641 31128 ccf43b5571d6019654ac881406a40019 "latex"
+["dvipdf"] 1721361852.44212 "out/main.dvi" "out/main.pdf" "out/main" 1721361853.38919 0
+  "out/main.dvi" 1721361852.38571 32704 4a7023ee8a7e1fd6d3beed16166ce275 "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1721359995.92981 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1721359998.26561 0
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1721359994.07641 18619 4875f00f15c1fc1cf7799ef5f1575ddc ""
+["latex"] 1721361851.20518 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1721361853.38837 0
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1721361850.80571 19267 e99b43447f965f5f2de7fbfcbeef4db6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -65,13 +65,13 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1719785820 42007 0b741a3c21a5ca32b40e3846e75b3548 ""
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1720551989 8176692 1948b951ba284a28c8dfe748d439d521 ""
   "/usr/local/texlive/2024/texmf.cnf" 1720551862.28972 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "images/cad1.png" 1721359825.59647 21320 591a361bc8c9bd98ebb1baf687182980 ""
-  "images/cad2.png" 1721359825.59647 14188 32b2252feff6037f20d163ddddab3396 ""
-  "images/figjam.png" 1721359825.59647 85793 37ae0fa298500330a4140ffdc7e88f72 ""
+  "images/cad1.png" 1721361058.76601 21320 591a361bc8c9bd98ebb1baf687182980 ""
+  "images/cad2.png" 1721361058.76601 14188 32b2252feff6037f20d163ddddab3396 ""
+  "images/figjam.png" 1721361058.76601 85793 37ae0fa298500330a4140ffdc7e88f72 ""
   "images/tech-conf.png" 1720758642.67842 140366 cd83b99b6748c7fd88c8cc934918e3ab ""
-  "main.tex" 1721359994.07641 18619 4875f00f15c1fc1cf7799ef5f1575ddc ""
-  "out/main.aux" 1721359997.24641 4196 8aee635b31259e5c9033395ea4a86be2 "latex"
-  "out/main.toc" 1721359997.24641 1913 1eeea85acbb1f54528526358fc7dfcf8 "latex"
+  "main.tex" 1721361850.80571 19267 e99b43447f965f5f2de7fbfcbeef4db6 ""
+  "out/main.aux" 1721361852.38571 4373 ff8a32a6706b8b4242902ad8efa7e33d "latex"
+  "out/main.toc" 1721361852.38571 1998 651f8f6bc1c653120ec33026cea4bcb5 "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"
