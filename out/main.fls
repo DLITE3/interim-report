@@ -124,8 +124,20 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.t
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
+INPUT ./images/cad1.png
+INPUT ./images/cad1.png
+INPUT ./images/cad1.png
+INPUT extractbb -B cropbox -O images/cad1.png
+INPUT ./images/cad2.png
+INPUT ./images/cad2.png
+INPUT ./images/cad2.png
+INPUT extractbb -B cropbox -O images/cad2.png
 INPUT ./images/tech-conf.png
 INPUT ./images/tech-conf.png
 INPUT ./images/tech-conf.png
 INPUT extractbb -B cropbox -O images/tech-conf.png
+INPUT ./images/figjam.png
+INPUT ./images/figjam.png
+INPUT ./images/figjam.png
+INPUT extractbb -B cropbox -O images/figjam.png
 INPUT out/main.aux
