@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1721372569.29081 "out/main.dvi" "out/main.pdf" "out/main" 1721372570.30156 0
-  "out/main.dvi" 1721372569.24216 33652 e83ec36b112544da9fdebe65b63b4c97 "latex"
+["dvipdf"] 1721374463.88786 "out/main.dvi" "out/main.pdf" "out/main" 1721374466.09216 0
+  "out/main.dvi" 1721374463.79146 33652 5f97f5153afb85cafa7c067a5cce9e5d "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1721372567.82151 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1721372570.30052 0
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1721372567.48216 20065 19a35b3cf45697f4d00f4dcdc126f5c9 ""
+["latex"] 1721374461.4097 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1721374466.09066 0
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1721374460.89146 20063 4e8f3b88044dc05c737ed7ff4cd0e304 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -69,9 +69,9 @@
   "images/cad2.png" 1721361058.76601 14188 32b2252feff6037f20d163ddddab3396 ""
   "images/figjam.png" 1721361058.76601 85793 37ae0fa298500330a4140ffdc7e88f72 ""
   "images/tech-conf.png" 1720758642.67842 140366 cd83b99b6748c7fd88c8cc934918e3ab ""
-  "main.tex" 1721372567.48216 20065 19a35b3cf45697f4d00f4dcdc126f5c9 ""
-  "out/main.aux" 1721372569.23216 4549 024148af9cd7d1f52ae81a9eed6f9287 "latex"
-  "out/main.toc" 1721372569.24216 1998 651f8f6bc1c653120ec33026cea4bcb5 "latex"
+  "main.tex" 1721374460.89146 20063 4e8f3b88044dc05c737ed7ff4cd0e304 ""
+  "out/main.aux" 1721374463.78146 4549 024148af9cd7d1f52ae81a9eed6f9287 "latex"
+  "out/main.toc" 1721374463.79146 1998 651f8f6bc1c653120ec33026cea4bcb5 "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"
