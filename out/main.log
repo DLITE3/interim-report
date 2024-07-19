@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.7.10)  19 JUL 2024 15:30
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.7.10)  19 JUL 2024 15:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -308,24 +308,24 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 127.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 128.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 127.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 128.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 127.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 128.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 127.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 128.
 LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 127.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 128.
 LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 127.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 128.
 
 
 [2]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 143.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 145.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 143.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 145.
 (out/main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
@@ -335,9 +335,9 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
 [3]
 Chapter 1.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 160.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 162.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 160.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 162.
 
 
 
@@ -449,12 +449,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [13]
-Underfull \hbox (badness 1057) in paragraph at lines 504--505
+Underfull \hbox (badness 1057) in paragraph at lines 507--508
 \JY1/mc/m/n/10.95 京都立大学機関リポジトリ 「 みやこ鳥 」 \OT1/cmr/m/n/10.95 (2024 \JY1/mc/m/n/10.95 年 \OT1/cmr/m/n/10.95 7 \JY1/mc/m/n/10.95 月 \OT1/cmr/m/n/10.95 10 \JY1/mc/m/n/10.95 日取得\OT1/cmr/m/n/10.95 , https://tokyo-metro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--506
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
 []\OT1/cmr/m/n/10.95 OpenAI. "Overview Ope-nAI API". Ope-nAI de-vel-oper doc-u-men-ta-tion.
  []
 
@@ -477,12 +477,12 @@ L3 programming layer <2024-05-27>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7133 strings out of 474243
- 133391 string characters out of 5743453
+ 7134 strings out of 474243
+ 133397 string characters out of 5743453
  1930750 words of memory out of 5000000
- 29978 multiletter control sequences out of 15000+600000
+ 29979 multiletter control sequences out of 15000+600000
  572731 words of font info for 93 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  57i,11n,65p,6639b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/main.dvi (16 pages, 33336 bytes).
+Output written on out/main.dvi (16 pages, 33660 bytes).
