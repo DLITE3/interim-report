@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1720840669.06477 "out/main.dvi" "out/main.pdf" "out/main" 1720840669.82049 0
-  "out/main.dvi" 1720840669.01983 17068 519bf018df24a6cf407a33f55f8094a2 "latex"
+["dvipdf"] 1721359997.30138 "out/main.dvi" "out/main.pdf" "out/main" 1721359998.26629 0
+  "out/main.dvi" 1721359997.24641 31128 ccf43b5571d6019654ac881406a40019 "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1720840668.28356 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1720840669.81972 0
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1720840667.86983 9444 9d1e6fc47ada99369d79b56604eeba3b ""
+["latex"] 1721359995.92981 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1721359998.26561 0
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1721359994.07641 18619 4875f00f15c1fc1cf7799ef5f1575ddc ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -25,6 +25,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1136768653 1300 b62933e007d01cfd073f79b963c01526 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm" 1136768653 1272 e2d13f0df30bf3ad990bb9d028e37f34 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
@@ -64,10 +65,13 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1719785820 42007 0b741a3c21a5ca32b40e3846e75b3548 ""
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1720551989 8176692 1948b951ba284a28c8dfe748d439d521 ""
   "/usr/local/texlive/2024/texmf.cnf" 1720551862.28972 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "images/cad1.png" 1721359825.59647 21320 591a361bc8c9bd98ebb1baf687182980 ""
+  "images/cad2.png" 1721359825.59647 14188 32b2252feff6037f20d163ddddab3396 ""
+  "images/figjam.png" 1721359825.59647 85793 37ae0fa298500330a4140ffdc7e88f72 ""
   "images/tech-conf.png" 1720758642.67842 140366 cd83b99b6748c7fd88c8cc934918e3ab ""
-  "main.tex" 1720840667.86983 9444 9d1e6fc47ada99369d79b56604eeba3b ""
-  "out/main.aux" 1720840669.01983 2198 8bca72ba2d0ec165366b7d46c44e3496 "latex"
-  "out/main.toc" 1720840669.01983 1185 ff953294869c174d2cdbce7fcaa92522 "latex"
+  "main.tex" 1721359994.07641 18619 4875f00f15c1fc1cf7799ef5f1575ddc ""
+  "out/main.aux" 1721359997.24641 4196 8aee635b31259e5c9033395ea4a86be2 "latex"
+  "out/main.toc" 1721359997.24641 1913 1eeea85acbb1f54528526358fc7dfcf8 "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"
