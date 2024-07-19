@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2024.7.17)  18 JUL 2024 09:17
+This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2024.7.17)  19 JUL 2024 05:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -340,12 +340,12 @@ Chapter 3.
 
 ] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 6556 strings out of 479850
- 123914 string characters out of 5887378
+ 6559 strings out of 479850
+ 123953 string characters out of 5887378
  450248 words of memory out of 5000000
- 24855 multiletter control sequences out of 15000+600000
- 483286 words of font info for 83 fonts, out of 8000000 for 9000
+ 24857 multiletter control sequences out of 15000+600000
+ 483627 words of font info for 84 fonts, out of 8000000 for 9000
  264 hyphenation exceptions out of 8191
  55i,5n,62p,520b,238s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (9 pages, 12204 bytes).
+Output written on main.dvi (9 pages, 12496 bytes).
