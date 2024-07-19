@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1721362582.91588 "out/main.dvi" "out/main.pdf" "out/main" 1721362584.10569 0
-  "out/main.dvi" 1721362582.84544 32748 c49ba6f1f69f33012e9104fb5e444b42 "latex"
+["dvipdf"] 1721362732.13588 "out/main.dvi" "out/main.pdf" "out/main" 1721362733.10109 0
+  "out/main.dvi" 1721362732.08539 32740 6d02b6b4a8a411a3f7576a91f1298321 "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1721362581.41526 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1721362584.10487 0
-  "/home/kcat/dlite3/latex/interim-report/main.tex" 1721362581.13544 19397 4949995f8131a7a6f90e28640c2b927f ""
+["latex"] 1721362730.72065 "/home/kcat/dlite3/latex/interim-report/main.tex" "out/main.dvi" "main" 1721362733.10024 0
+  "/home/kcat/dlite3/latex/interim-report/main.tex" 1721362730.40539 19393 6c306f36041d028d66e7ca265ce44abd ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -69,9 +69,9 @@
   "images/cad2.png" 1721361058.76601 14188 32b2252feff6037f20d163ddddab3396 ""
   "images/figjam.png" 1721361058.76601 85793 37ae0fa298500330a4140ffdc7e88f72 ""
   "images/tech-conf.png" 1720758642.67842 140366 cd83b99b6748c7fd88c8cc934918e3ab ""
-  "main.tex" 1721362581.13544 19397 4949995f8131a7a6f90e28640c2b927f ""
-  "out/main.aux" 1721362582.84544 4493 7b6b0d17d1ff787c536729a6cc0717c1 "latex"
-  "out/main.toc" 1721362582.84544 1998 651f8f6bc1c653120ec33026cea4bcb5 "latex"
+  "main.tex" 1721362730.40539 19393 6c306f36041d028d66e7ca265ce44abd ""
+  "out/main.aux" 1721362732.07539 4493 7b6b0d17d1ff787c536729a6cc0717c1 "latex"
+  "out/main.toc" 1721362732.08539 1998 651f8f6bc1c653120ec33026cea4bcb5 "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"
