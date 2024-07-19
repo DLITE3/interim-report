@@ -142,4 +142,3 @@ INPUT ./images/figjam.png
 INPUT ./images/figjam.png
 INPUT ./images/figjam.png
 INPUT extractbb -B cropbox -O images/figjam.png
-INPUT out/main.aux
