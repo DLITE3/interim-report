@@ -294,14 +294,16 @@ have difficulty evacuating on their own, and devices that allow people with disa
 \ref{goal}節で記載した目的を達成するために、以下のようなデバイスを開発する。
 デバイスの回路部分の開発には、本学学部２年の科目である情報処理演習２で培った内容を活かしたい。
 \begin{figure}[htbp]
-  \begin{center}
-    \includegraphics[width=100mm]{images/cad1.png}\\
-    \caption{デバイス構想}
-  \end{center}
-  \begin{center}
-    \includegraphics[width=100mm]{images/cad2.png}\\
-    \caption{デバイス構想}
-  \end{center}
+  \centering % 図を中央寄せにする
+  \includegraphics[width=100mm]{images/cad1.png}\\
+  \caption{デバイス構想}
+  \label{fig:cad1}
+\end{figure}\\
+\begin{figure}[htbp]
+  \centering % 図を中央寄せにする
+  \includegraphics[width=100mm]{images/cad2.png}\\
+  \caption{デバイス構想}
+  \label{fig:cad2}
 \end{figure}\\
 昨今、デジタルデバイドにより、デジタル機器を扱うことが難しい方も少なくはない。
 このデバイスは、デジカメの形を模した形となっており、高齢者等も直感的に使えるデバイスを目指している。
@@ -368,7 +370,7 @@ OpenAI APIの使用については公式ドキュメント\cite{OpenAIAPI}を参
 \subsection{開発するデバイス}
 \noindent\space
 フィールドワーク、ブレインストーミングを行うことにより、ペルソナやどのようなデバイスを開発するのかを明確に考えることが出来た。
-ブレインストーミングではFigJamを用いて以下の図\ref{fig:figjam}ように行った。
+ブレインストーミングではFigJamを用いて以下の図\ref{fig:figjam}のように行った。
 \begin{figure}[htbp]
   \centering % 図を中央寄せにする
   \includegraphics[width=100mm]{images/figjam.png}\\
@@ -385,7 +387,7 @@ OpenAI APIの使用については公式ドキュメント\cite{OpenAIAPI}を参
 
 \subsection{ハードウェア設計}
 \noindent\space
-Fusion360を用いて完成イメージのCADを作成することが出来た。
+Fusion360を用いて完成イメージのCADを作成することが出来た。（図\ref{fig:cad1}, \ref{fig:cad2}）
 \Writer{金子康一}
 
 \subsection{開発環境}
@@ -495,8 +497,8 @@ Fusion360を用いて完成イメージのCADを作成することが出来た�
 \newpage
 \addcontentsline{toc}{chapter}{参考文献}
 \begin{thebibliography}{1}
-  \bibitem{OpenAIAPI} OpenAI. "Overview OpenAI API". OpenAI developer documentation. https://platform.openai.com/docs/overview. （2024/7/17アクセス）.
   \bibitem{先行研究} 峰野あゆみ（2013）「視覚障がい者の散策行動特性からみた支援環境に関する研究」,東京都立大学機関リポジトリ「みやこ鳥」(2024年7月10日取得, https://tokyo-metro-u.repo.nii.ac.jp/records/3633).
+  \bibitem{OpenAIAPI} OpenAI. "Overview OpenAI API". OpenAI developer documentation. https://platform.openai.com/docs/overview. （2024/7/17アクセス）.
 \end{thebibliography}
 
 \end{document}
